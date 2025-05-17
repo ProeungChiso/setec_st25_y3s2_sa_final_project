@@ -31,7 +31,7 @@
 
             <div class="row gy-4">
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
                     <div class="team-member">
                         <div class="member-img">
                             <img src="{{asset('assets/img/team/chiso.jpeg')}}" class="img-fluid" alt="">
@@ -48,7 +48,7 @@
                     </div>
                 </div><!-- End Team Member -->
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
                     <div class="team-member">
                         <div class="member-img">
                             <img src="{{asset('assets/img/team/b_run.jpeg')}}" class="img-fluid" alt="">
@@ -65,7 +65,7 @@
                     </div>
                 </div><!-- End Team Member -->
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
                     <div class="team-member">
                         <div class="member-img">
                             <img src="{{asset('assets/img/team/kolab.jpeg')}}" class="img-fluid" alt="">
@@ -82,10 +82,27 @@
                     </div>
                 </div><!-- End Team Member -->
 
-                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+{{--                <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">--}}
+{{--                    <div class="team-member">--}}
+{{--                        <div class="member-img">--}}
+{{--                            <img src="{{asset('assets/img/team/songheang.jpeg')}}" class="img-fluid" alt="">--}}
+{{--                            <div class="social">--}}
+{{--                                <a href=""><i class="bi bi-facebook"></i></a>--}}
+{{--                                <a href=""><i class="bi bi-instagram"></i></a>--}}
+{{--                                <a href=""><i class="bi bi-linkedin"></i></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="member-info">--}}
+{{--                            <h4>Mey Songheang</h4>--}}
+{{--                            <span>Accountant</span>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
                     <div class="team-member">
                         <div class="member-img">
-                            <img src="{{asset('assets/img/team/songheang.jpeg')}}" class="img-fluid" alt="">
+                            <img src="{{asset('assets/img/team/serey.jpeg')}}" class="img-fluid" alt="">
                             <div class="social">
                                 <a href=""><i class="bi bi-facebook"></i></a>
                                 <a href=""><i class="bi bi-instagram"></i></a>
@@ -93,8 +110,42 @@
                             </div>
                         </div>
                         <div class="member-info">
-                            <h4>Mey Songheang</h4>
-                            <span>Accountant</span>
+                            <h4>Samnang Chanserey</h4>
+                            <span>Backend Developer</span>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="{{asset('assets/img/team/ryta.jpeg')}}" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Soun Daryta</h4>
+                            <span>DevOps Engineer</span>
+                        </div>
+                    </div>
+                </div><!-- End Team Member -->
+
+                <div class="col-lg-4 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+                    <div class="team-member">
+                        <div class="member-img">
+                            <img src="{{asset('assets/img/team/davann.jpeg')}}" class="img-fluid" alt="">
+                            <div class="social">
+                                <a href=""><i class="bi bi-facebook"></i></a>
+                                <a href=""><i class="bi bi-instagram"></i></a>
+                                <a href=""><i class="bi bi-linkedin"></i></a>
+                            </div>
+                        </div>
+                        <div class="member-info">
+                            <h4>Rith Davann</h4>
+                            <span>Developer</span>
                         </div>
                     </div>
                 </div><!-- End Team Member -->
